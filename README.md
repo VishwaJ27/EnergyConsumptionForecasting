@@ -108,10 +108,3 @@ statsmodels
 scikit-learn
 streamlit
 jupyter
-```
-
----
-
-## License
-
-This project is for educational purposes. The dataset is provided by UCI Machine Learning Repository.
